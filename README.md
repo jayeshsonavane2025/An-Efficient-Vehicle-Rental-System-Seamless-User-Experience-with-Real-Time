@@ -17,7 +17,7 @@ An advanced application designed to revolutionize vehicle selection, optimize th
 ## Images
 
 **User Interface:**
-<img src="Images/SmartvehiclerentalApplication.gif" width="100%" height="100%">
+<img src="Images/SmartVehicleRentalApplication.gif" width="100%" height="100%">
 **Home page:**
 ![Image 1](Images/home.png)
 **Home page:**
