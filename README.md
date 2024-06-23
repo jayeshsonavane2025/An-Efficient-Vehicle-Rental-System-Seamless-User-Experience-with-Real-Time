@@ -1,4 +1,4 @@
-# 🚗 Smart Vehicle Rental Application 📱
+# 🚗 An Efficient Vehicle Rental System: Seamless User Experience with Real-Time Web-Based Email Integration 📱
 
 An advanced application designed to revolutionize vehicle selection, optimize the booking process, and enhance the overall experience of vehicle rentals. This application integrates real-time tracking 🌐 and enhanced features for seamless vehicle booking and management.
 
